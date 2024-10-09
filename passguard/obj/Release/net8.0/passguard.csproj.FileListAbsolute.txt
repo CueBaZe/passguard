@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\passguard.exe
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\passguard.deps.json
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\passguard.runtimeconfig.json
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\passguard.dll
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\passguard.pdb
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.dll
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\refint\passguard.dll
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.pdb
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\passguard.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\obj\Release\net8.0\ref\passguard.dll

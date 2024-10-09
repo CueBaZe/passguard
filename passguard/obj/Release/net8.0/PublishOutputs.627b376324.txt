@@ -1,0 +1,5 @@
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\publish\passguard.exe
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\publish\passguard.dll
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\publish\passguard.deps.json
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\publish\passguard.runtimeconfig.json
+C:\Users\olive\OneDrive\Skrivebord\mapper\python\passguard\bin\Release\net8.0\publish\passguard.pdb
